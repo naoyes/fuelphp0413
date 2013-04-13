@@ -11,8 +11,11 @@
  * @author naoyes
  */
 class Controller_Osu0413 extends \Fuel\Core\Controller {
-	public static function action_index() {
-		$data = array('title' => '2013/04/13 FuelPHP');
+	public static function action_index($text = 'no definition') {
+		$data = array(
+                            'title' => '2013/04/13 FuelPHP',
+                            'text' => $text
+                        );
 		return View::forge('osu0413', $data);	
 	}
 }
