@@ -38,3 +38,4 @@ are up to scratch, we will notice you, and will ask you to become a team member.
 * Dan Horrigan - Founder, Developer ([http://dhorrigan.com](http://dhorrigan.com))
 
 共有しました from sand-cd
+共有しました from naoyes
